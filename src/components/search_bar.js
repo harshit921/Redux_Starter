@@ -5,9 +5,8 @@ import React , {Component} from 'react';
    {
      super(props);
      this.state = {term : '' };
-   }
-
-
+   };
+   
    render() {
       return(
         <div>
